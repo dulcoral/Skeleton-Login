@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Login Challenge</string>
+    <string name="login">Inicia Sesión</string>
+    <string name="create_account">Crea tu cuenta</string>
+    <string name="email">Correo electronico</string>
+    <string name="password">Contraseña</string>
+    <string name="forgot_password">Olvidaste tu constraseña?</string>
+</resources>

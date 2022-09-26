@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">Baubap challenge</string>
+    <string name="app_name">Login Challenge</string>
+    <string name="login">Login</string>
+    <string name="create_account">Create account</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot password?</string>
 </resources>

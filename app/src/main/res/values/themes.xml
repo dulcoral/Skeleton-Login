@@ -1,6 +1,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Theme.BaubapChallenge" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+    <style name="Theme.BaubapChallenge" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         <!-- Primary brand color. -->
         <item name="colorPrimary">@color/purple_500</item>
         <item name="colorPrimaryVariant">@color/purple_700</item>
@@ -13,4 +13,55 @@
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
     </style>
+
+    <style name="SimpleEditTextStyle" parent="EditTextStyle">
+    </style>
+
+    <style name="TextInputStyle" parent="Widget.Design.TextInputLayout">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="hintTextAppearance">@style/HintTextStyle</item>
+        <item name="android:cursorVisible">true</item>
+    </style>
+
+    <style name="EditTextEmailStyle" parent="SimpleEditTextStyle">
+        <item name="android:inputType">textEmailAddress</item>
+    </style>
+
+    <style name="EditTextPasswordStyle" parent="SimpleEditTextStyle">
+        <item name="android:inputType">textPassword</item>
+    </style>
+
+    <style name="HintTextStyle" parent="TextAppearance.AppCompat.Small">
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="EditTextStyle" parent="Widget.AppCompat.EditText">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textAlignment">textStart</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:inputType">textCapSentences</item>
+        <item name="android:paddingTop">14dp</item>
+        <item name="android:paddingBottom">18dp</item>
+        <item name="android:theme">@style/ThemeOverlay.AppTheme.TextInputEditText.Outlined</item>
+    </style>
+
+    <style name="ThemeOverlay.AppTheme.TextInputEditText.Outlined" parent="">
+        <item name="colorControlActivated">@color/slateGray</item>
+    </style>
+
+
+    <style name="BaseButton" parent="TextAppearance.AppCompat.Button">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:paddingStart">24dp</item>
+        <item name="android:paddingEnd">24dp</item>
+    </style>
+
 </resources>

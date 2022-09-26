@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="space_none">0dp</dimen>
+    <dimen name="space_2">2dp</dimen>
+    <dimen name="space_4">4dp</dimen>
+    <dimen name="space_6">6dp</dimen>
+    <dimen name="space_8">8dp</dimen>
+    <dimen name="space_10">10dp</dimen>
+    <dimen name="space_12">12dp</dimen>
+    <dimen name="space_14">14dp</dimen>
+    <dimen name="space_16">16dp</dimen>
+    <dimen name="space_18">18dp</dimen>
+    <dimen name="space_20">20dp</dimen>
+    <dimen name="space_21">21dp</dimen>
+    <dimen name="space_22">22dp</dimen>
+    <dimen name="space_24">24dp</dimen>
+    <dimen name="space_26">26dp</dimen>
+    <dimen name="space_30">30dp</dimen>
+    <dimen name="space_32">32dp</dimen>
+
+
+    <dimen name="size_zero">0dp</dimen>
+    <dimen name="size_1">1dp</dimen>
+    <dimen name="size_2">2dp</dimen>
+    <dimen name="size_4">4dp</dimen>
+    <dimen name="size_5">5dp</dimen>
+    <dimen name="size_8">8dp</dimen>
+    <dimen name="size_10">10dp</dimen>
+    <dimen name="size_16">16dp</dimen>
+    <dimen name="size_20">20dp</dimen>
+    <dimen name="size_24">24dp</dimen>
+    <dimen name="size_40">40dp</dimen>
+
+    <dimen name="text_big_size">32sp</dimen>
+    <dimen name="text_medium_size">16sp</dimen>
+</resources>

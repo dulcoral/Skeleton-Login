@@ -1,4 +1,4 @@
-package com.example.baubapchallenge.presentation.ui
+package com.example.baubapchallenge.presentation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
