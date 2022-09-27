@@ -86,11 +86,11 @@ class FragmentLogin : BaseFragment() {
                         textInputLayoutPassword.error = getString(R.string.password_error)
                         textInputLayoutEmail.isErrorEnabled = true
                         buttonLogin.isEnabled = false
-
                     } else {
+                        if (textInputLayoutEmail.isErrorEnabled.not()) {
+                            buttonLogin.isEnabled = true
+                        }
                         textInputLayoutPassword.isErrorEnabled = false
-                        buttonLogin.isEnabled = true
-
                     }
                 }
             }

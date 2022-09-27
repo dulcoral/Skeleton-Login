@@ -7,7 +7,7 @@
     <string name="password">Password</string>
     <string name="forgot_password">Forgot password?</string>
     <string name="password_error">Verify your password</string>
-    <string name="email_error">Ingresa un correo electrónico valido</string>
+    <string name="email_error">Enter a valid email</string>
     <string name="title_loading">Loading</string>
     <string name="login_success">Login Successfully ^_^</string>
     <string name="login_failure">Incorrect Credentials.\nRead the readme</string>
