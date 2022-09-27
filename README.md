@@ -20,8 +20,10 @@ password: password
 
 ## Demo
 Instrumented tests demo
-https://user-images.githubusercontent.com/25617482/192598631-2586c8b7-215e-48d8-af3a-4361eb86d481.mov
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/25617482/192601498-9a56d679-52b2-4206-af1f-8dad185f6c6d.gif)
+
 
 Manual demo
-https://user-images.githubusercontent.com/25617482/192599295-79ea5a6c-6fa8-4562-83cc-861923f5816e.mov
 
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/25617482/192602076-29ad7f4d-2f21-422e-adfb-114cc47220fc.gif)
