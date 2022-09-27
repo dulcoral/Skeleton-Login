@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Login Challenge</string>
-    <string name="login">Inicia Sesión</string>
-    <string name="create_account">Crea tu cuenta</string>
-    <string name="email">Correo electronico</string>
-    <string name="password">Contraseña</string>
-    <string name="forgot_password">Olvidaste tu constraseña?</string>
+    <string name="login">Login</string>
+    <string name="create_account">Create account</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="password_error">Verify your password</string>
+    <string name="email_error">Ingresa un correo electrónico valido</string>
+    <string name="title_loading">Loading</string>
+    <string name="login_success">Login Successfully ^_^</string>
+    <string name="login_failure">Incorrect Credentials.\nRead the readme</string>
+    <string name="login_error">Something happen, repeat lately</string>
 </resources>

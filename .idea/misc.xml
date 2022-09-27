@@ -5,6 +5,7 @@
       <map>
         <entry key="app/src/main/res/drawable-v24/ic_eye_slash.xml" value="0.208" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.17046605876393112" />
+        <entry key="app/src/main/res/layout/dialog_loader_progress.xml" value="0.35052083333333334" />
         <entry key="app/src/main/res/layout/fragment_login.xml" value="0.25" />
       </map>
     </option>
